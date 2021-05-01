@@ -14,6 +14,7 @@ import { OxygenComponent } from "./oxygen/oxygen.component";
 import { BedsComponent } from "./beds/beds.component";
 import { AmbulanceComponent } from "./ambulance/ambulance.component";
 import { VolsComponent } from "./vols/vols.component";
+import { DonateComponent } from "./donate/donate.component";
 
 const routes: Routes = [
   { path: "", redirectTo: "/dashboard", pathMatch: "full" },
@@ -31,6 +32,7 @@ const routes: Routes = [
   { path: "beds", component: BedsComponent },
   { path: "ambu", component: AmbulanceComponent },
   { path: "volunteers", component: VolsComponent },
+  { path: "donate", component: DonateComponent },
 ];
 
 @NgModule({

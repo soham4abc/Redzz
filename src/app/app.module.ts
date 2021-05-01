@@ -26,6 +26,7 @@ import { OxygenComponent } from './oxygen/oxygen.component';
 import { BedsComponent } from './beds/beds.component';
 import { AmbulanceComponent } from './ambulance/ambulance.component';
 import { VolsComponent } from './vols/vols.component';
+import { DonateComponent } from './donate/donate.component';
 
 @NgModule({
   declarations: [
@@ -46,7 +47,8 @@ import { VolsComponent } from './vols/vols.component';
     OxygenComponent,
     BedsComponent,
     AmbulanceComponent,
-    VolsComponent
+    VolsComponent,
+    DonateComponent
   ],
   imports: [
     BrowserModule,
