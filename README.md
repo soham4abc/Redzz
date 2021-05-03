@@ -1,13 +1,13 @@
-# CozOfMaths
-
-A mobile first design of a responsive  site
+# Covid19Resources
+responsive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/63705023/113514268-470d9f80-958b-11eb-9f51-24be64bd14df.png)
+![image]!(https://user-images.githubusercontent.com/63705023/116859999-7eb94700-ac1e-11eb-8c44-b14b2124759a.png)
+
 
 
 ## Quick start
